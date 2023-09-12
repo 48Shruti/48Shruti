@@ -1,7 +1,7 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fthink360studio.com%2Fandroid-app-development-service&psig=AOvVaw3_m58hfJUUxTQFt9BMmSRd&ust=1694595730393000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCcgpnbpIEDFQAAAAAdAAAAABAh)
+![MasterHead](C:\Users\Shruti Sharma\Downloads\mobile-andriod-15122022.gif)
 <h1 align="center">Hi 👋, I'm Shruti Sharma</h1>
 <h3 align="center">A passionate to learn about android development and ECE Undergrad from India. .</h3>
-<img align="right"alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fcakeresume%2Fthe-future-of-app-development-aa7d6411312c&psig=AOvVaw0fm2weFCmQlcDGEMDwel4d&ust=1694596188152000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOiwz_HcpIEDFQAAAAAdAAAAABA2">
+<img align="right"alt="coding" width="400" src="C:\Users\Shruti Sharma\Downloads\mobileappdevelopement.gif">
 
 - 🌱 I’m currently learning **Android development**
 
