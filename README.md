@@ -1,4 +1,4 @@
-![MasterHead](C:\Users\Shruti Sharma\Downloads\mobile-andriod-15122022.gif)
+![MasterHead](https://1.bp.blogspot.com/-gu5z4t7QXkw/Xd8bEk6gVxI/AAAAAAAANhQ/jXlVfYNQbOw3Uj4zsxT3fqT5jdrZP4FFQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Shruti Sharma</h1>
 <h3 align="center">A passionate to learn about android development and ECE Undergrad from India. .</h3>
 <img align="right"alt="coding" width="400" src="C:\Users\Shruti Sharma\Downloads\mobileappdevelopement.gif">
